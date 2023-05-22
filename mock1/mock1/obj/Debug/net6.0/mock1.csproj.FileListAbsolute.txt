@@ -1,0 +1,15 @@
+C:\Users\2270332\source\repos\mock1\mock1\bin\Debug\net6.0\mock1.exe
+C:\Users\2270332\source\repos\mock1\mock1\bin\Debug\net6.0\mock1.deps.json
+C:\Users\2270332\source\repos\mock1\mock1\bin\Debug\net6.0\mock1.runtimeconfig.json
+C:\Users\2270332\source\repos\mock1\mock1\bin\Debug\net6.0\mock1.dll
+C:\Users\2270332\source\repos\mock1\mock1\bin\Debug\net6.0\mock1.pdb
+C:\Users\2270332\source\repos\mock1\mock1\obj\Debug\net6.0\mock1.csproj.AssemblyReference.cache
+C:\Users\2270332\source\repos\mock1\mock1\obj\Debug\net6.0\mock1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2270332\source\repos\mock1\mock1\obj\Debug\net6.0\mock1.AssemblyInfoInputs.cache
+C:\Users\2270332\source\repos\mock1\mock1\obj\Debug\net6.0\mock1.AssemblyInfo.cs
+C:\Users\2270332\source\repos\mock1\mock1\obj\Debug\net6.0\mock1.csproj.CoreCompileInputs.cache
+C:\Users\2270332\source\repos\mock1\mock1\obj\Debug\net6.0\mock1.dll
+C:\Users\2270332\source\repos\mock1\mock1\obj\Debug\net6.0\refint\mock1.dll
+C:\Users\2270332\source\repos\mock1\mock1\obj\Debug\net6.0\mock1.pdb
+C:\Users\2270332\source\repos\mock1\mock1\obj\Debug\net6.0\mock1.genruntimeconfig.cache
+C:\Users\2270332\source\repos\mock1\mock1\obj\Debug\net6.0\ref\mock1.dll

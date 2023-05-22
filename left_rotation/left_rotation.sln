@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "left_rotation", "left_rotation\left_rotation.csproj", "{58647E37-3313-4F43-8457-368A327FE3CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58647E37-3313-4F43-8457-368A327FE3CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58647E37-3313-4F43-8457-368A327FE3CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58647E37-3313-4F43-8457-368A327FE3CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58647E37-3313-4F43-8457-368A327FE3CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5790B98-84B1-4D16-842F-D60DBF4FC52C}
+	EndGlobalSection
+EndGlobal
